@@ -1,0 +1,94 @@
+# 📘 Bolão Pro - Regras de Negócio
+
+Este documento registra todas as regras que definem o funcionamento do Bolão Pro.
+
+---
+
+# RN-001 - Fechamento dos Palpites
+
+## Descrição
+
+O participante poderá cadastrar ou alterar seus palpites até o tempo definido pelo administrador antes do início da partida.
+
+## Opções
+
+- No início da partida
+- 5 minutos antes
+- 10 minutos antes
+- 15 minutos antes
+- 30 minutos antes
+- 1 hora antes
+- Horário personalizado
+
+Após esse período:
+
+- Não será possível editar o palpite.
+- Não será possível excluir o palpite.
+
+---
+
+# RN-002 - Rodadas do Bolão
+
+As rodadas do Bolão Pro são independentes das rodadas oficiais do campeonato.
+
+O administrador poderá montar cada rodada utilizando qualquer jogo disponível no campeonato.
+
+Exemplos:
+
+- Rodada 1 do Bolão
+- Rodada Julho
+- Rodada Especial
+- Rodada Final
+
+O sistema calculará a pontuação apenas considerando os jogos pertencentes àquela rodada do bolão.
+
+---
+
+# RN-003 - Premiações
+
+Cada bolão poderá possuir uma ou mais premiações.
+
+Tipos permitidos:
+
+- Geral
+- Rodada
+- Mensal
+- Turno
+- Semestral
+- Anual
+- Personalizada
+
+Cada premiação poderá possuir regras próprias.
+
+---
+
+# RN-004 - Tipo de Campeonato
+
+O sistema deverá permitir campeonatos:
+
+- Pontos Corridos
+- Mata-Mata
+
+---
+
+# RN-005 - Participantes
+
+Cada participante deverá possuir:
+
+- Nome
+- WhatsApp
+- E-mail
+- CPF (Opcional)
+- Data de Nascimento (Opcional)
+- Chave PIX (Opcional)
+- Status
+
+---
+
+# Histórico de Alterações
+
+| Data | Regra | Alteração |
+|------|--------|-----------|
+| 27/07/2026 | RN-001 | Criação da regra de fechamento dos palpites |
+| 27/07/2026 | RN-002 | Rodadas independentes do campeonato |
+| 27/07/2026 | RN-003 | Premiações flexíveis |
