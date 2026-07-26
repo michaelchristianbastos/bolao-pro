@@ -134,3 +134,41 @@ Campos:
 - id
 - rodada_bolao_id
 - jogo_id
+
+# Estrutura Definida
+
+## TIMES
+
+- id
+- nome
+- nome_curto
+- sigla
+- escudo
+- cidade
+- estado
+- pais
+- ativo
+- criado_em
+- atualizado_em
+
+---
+
+## CAMPEONATOS
+
+- id
+- nome
+- pais
+- esporte
+- organizador
+- ativo
+
+---
+
+## TEMPORADAS
+
+- id
+- campeonato_id
+- ano
+- data_inicio
+- data_fim
+- status
